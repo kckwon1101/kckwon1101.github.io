@@ -1,8 +1,8 @@
 ---
-title: 동작 파라미터화(Behavior Parameterizaion)
+title: Behavior Parameterizaion
 author: Kichang Kwon
 date: 2020-11-20 17:10:00 +0900
-categories: [Java, ModernJava]
+categories: [Java, Modern Java]
 tags: [behavior parameterizaion]
 pin: true
 ---
